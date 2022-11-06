@@ -1,3 +1,6 @@
+Instructions
+Write a program that displays its last argument, if there is one.
+
 package main
 import (
 	"os"
