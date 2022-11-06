@@ -1,3 +1,6 @@
+Instructions
+Write a program that displays its first argument, if there is one.
+
 package main
 import (
 	"os"
